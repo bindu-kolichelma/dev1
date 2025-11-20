@@ -6,7 +6,7 @@
 
 <form>
 
-  <label for="username">Username:</label><br>
+  <label for="username">User:</label><br>
   <input type="text" id="username" name="username"><br><br>
 
   <label for="email">Email:</label><br>
